@@ -1,3 +1,4 @@
 ## machine learning
 #### ml-ex1
-- matlab
+- Linear regression with one variable
+- Linear regression with multiple variables
