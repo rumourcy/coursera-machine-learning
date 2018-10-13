@@ -7,3 +7,4 @@
 - Regularized Logistic Regression
 #### ml-ex3
 - Multi-class Classification
+- Neural Networks
